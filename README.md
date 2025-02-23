@@ -62,8 +62,6 @@ Where `<type>` can be: `bubble_sort`, `selection_sort`, `inserted_sort`, `merge_
 
 In `results` folder, you will find our personal results, including the python scripts for to generate graphics.
 
-Additionally, in `results` folder I included the datasets generated for these results.
-
 ## About the developer
 
 - ducky-lucky
